@@ -42,13 +42,13 @@ msg() {
   -blu1) cor="${COLOR[9]}" && echo -e "${cor}${2}${SEMCOR}" ;;
   -verd) cor="${COLOR[2]}${NEGRITO}" && echo -e "${cor}${2}${SEMCOR}" ;;
   -bra) cor="${COLOR[0]}${NEGRITO}" && echo -e "${cor}${2}${SEMCOR}" ;;
-  -bar) cor="${COLOR[1]} •••••••••••••••••••••••••••••••••••••••" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
+  -bar) cor="${COLOR[1]} ••••••••••••••••••••••••••••••••••••••••••••••••" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   -baru) cor="${COLOR[1]}┌ ✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕ ┐" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   -barr) cor="${COLOR[1]}└ ••••••••••••••••••••••••••••••••••••••••••••••••••••••• ┘" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   -bar0) cor="${COLOR[1]}└ ✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕ ┘" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   -bar2) cor="${COLOR[7]} ✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕✕" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   -bar3) cor="${COLOR[1]} ─────────────────────────────────────────────────" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
-  -bar4) cor="${COLOR[7]} •••••••••••••••••••••••••••••••••••••••••" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
+  -bar4) cor="${COLOR[7]} ••••••••••••••••••••••••••••••••••••••••••••••••••" && echo -e "${SEMCOR}${cor}${SEMCOR}" ;;
   esac
 }
 
