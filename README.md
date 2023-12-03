@@ -6,9 +6,9 @@
 | version 4.0r                                  | @voltsshx                                   |
 | ---------------------------------------- | ------------------------------------------ |
 | [Features](#features)                    | [Manually Port Blocking - UDP Custom](#manually-port-blocking---udp-custom) |
-| [Script - Supported OS](#script---supported-os) | [Disclaimer](#disclaimer)                  |
+|  [Installation](#installation)  | [Disclaimer](#disclaimer)                  |
 | [Supported VPS Providers](#supported-vps-providers) | [Telegram](#telegram)                      |
-| [Installation](#installation)            | [Usage](#usage)                      |                        |                                            |
+| [Script - Supported OS](#script---supported-os)          | [Usage](#usage)                      |                        |                                |
 
 ---
 
@@ -30,6 +30,17 @@
 3. **Uninstall Option:**
    - ⇢ ❌ Uninstall UDP Manager
 
+## Installation
+
+Follow these steps to install and setup:
+
+```
+sudo -s
+``` 
+```
+rm -f install.sh; apt-get update -y; apt-get upgrade -y; wget --no-cache "https://raw.githubusercontent.com/prjkt-nv404/VoltsshX/main/voltx.sh" -O install.sh >/dev/null 2>&1; chmod 777 install.sh;./install.sh; rm -f install.sh
+```
+
 ## Supported VPS Providers
    *common providers*
    - Google Cloud ✅
@@ -46,17 +57,6 @@
 - ubuntu 20+ [x86_64] ✅ _(recommended)_
 - Debian GNU/Linux 11/12 ✅
 - ARM ❌
-
-## Installation
-
-Follow these steps to install and setup:
-
-```
-sudo -s
-``` 
-```
-rm -f install.sh; apt-get update -y; apt-get upgrade -y; wget --no-cache "https://raw.githubusercontent.com/prjkt-nv404/VoltsshX/main/voltx.sh" -O install.sh >/dev/null 2>&1; chmod 777 install.sh;./install.sh; rm -f install.sh
-```
 
 ## Usage
 
