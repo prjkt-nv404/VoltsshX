@@ -2,20 +2,32 @@
 > Unleash the Power of Seamless SSH Script Management with Advanced UDP Capabilities!
 
 ## Table of Contents
-  - [Features](#features)
-  - [Script - Supported OS](#script---supported-os)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Manually Port Blocking - UDP Custom](#manually-port-blocking---udp-custom)
-  - [Disclaimer](#disclaimer)
-  - [Telegram](#telegram)
-  - [Credit](#credit)
+
+| version 4.0r                                  | @voltsshx                                   |
+| ---------------------------------------- | ------------------------------------------ |
+| [Features](#features)                    | [Manually Port Blocking - UDP Custom](#manually-port-blocking---udp-custom) |
+| [Script - Supported OS](#script---supported-os) | [Disclaimer](#disclaimer)                  |
+| [Installation](#installation)            | [Telegram](#telegram)                      |
+| [Usage](#usage)                          | [Credit](#credit)                          |
+
 ---
 
-## Features 
-- UDP Custom ✅
-- UDP Request ✅
-- Hysteria [Legacy & v2] ❓
+## Features
+1. **Display System Information:**
+   - OS | ARCH | ISP | CPU Usage | IP Address | RAM Usage
+
+2. **Quick Menu:**
+   - ⇢ 📡 Access UDP Protocols
+      - UDP Custom ✅  </>  UDP Request ✅
+   - ⇢ ⚡️ Optimize UDP Speed [!Caution!]
+   - ⇢ ℹ️ VPS Info
+   - ⇢ 🔄 Create Swap-file
+   - ⇢ ♻️ Enable BBR
+   - ⇢ 🚀 Run Speedtest
+   - ⇢ ⚠️ View Disclaimer
+
+3. **Uninstall Option:**
+   - ⇢ ❌ Uninstall UDP Manager
 
 # Script - Supported OS
 - ubuntu 20+ [x86_64] ✅ _(recommended)_
@@ -79,9 +91,6 @@ __*Use responsibly and adhere to all relevant laws and regulations. The project 
 
  > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷 𝙷𝚀 ⚝](https://t.me/voltsshhq)
 
-## Credit
-
- > 
 
 #
   > _made from pieces with ❤️_
