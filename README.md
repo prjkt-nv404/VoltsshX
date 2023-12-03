@@ -7,8 +7,8 @@
 | ---------------------------------------- | ------------------------------------------ |
 | [Features](#features)                    | [Manually Port Blocking - UDP Custom](#manually-port-blocking---udp-custom) |
 | [Script - Supported OS](#script---supported-os) | [Disclaimer](#disclaimer)                  |
-| [Installation](#installation)            | [Telegram](#telegram)                      |
-| [Usage](#usage)                          | [Credit](#credit)                          |
+| [Supported VPS Providers](#supported-vps-providers) | [Telegram](#telegram)                      |
+| [Installation](#installation)            | [Usage](#usage)                      |                        |                                            |
 
 ---
 
@@ -30,7 +30,19 @@
 3. **Uninstall Option:**
    - ⇢ ❌ Uninstall UDP Manager
 
-# Script - Supported OS
+## Supported VPS Providers
+   *common providers*
+   - Google Cloud ✅
+   - Digital Ocean ✅
+   - Hetzner ✅
+   - Linode ✅
+   - Kamatera ✅
+   - AWS (UDP Custom) ✅
+   - Contabo ✅
+   - OVHcloud ✅
+   - Any Akamai Technologies as ISP ✅
+  
+## Script - Supported OS
 - ubuntu 20+ [x86_64] ✅ _(recommended)_
 - Debian GNU/Linux 11/12 ✅
 - ARM ❌
