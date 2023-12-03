@@ -25,6 +25,7 @@
    - ⇢ ♻️ Enable BBR
    - ⇢ 🚀 Run Speedtest
    - ⇢ ⚠️ View Disclaimer
+- Other(s) : User account Backup & Restore.
 
 3. **Uninstall Option:**
    - ⇢ ❌ Uninstall UDP Manager
