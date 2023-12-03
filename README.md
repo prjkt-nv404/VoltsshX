@@ -70,7 +70,7 @@ udpx
 _[A custom configuration, both "stream_buffer" and "receive_buffer" values are set to 209715200 bytes, which is equivalent to approximately 200MB.]_
 ```json
 {
-  "listen": ":36712",
+  "listen": ":25525",
   "stream_buffer": 209715200,
   "receive_buffer": 209715200,
   "auth": {
