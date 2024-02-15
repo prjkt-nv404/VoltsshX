@@ -98,11 +98,11 @@ __*Use responsibly and adhere to all relevant laws and regulations. The project 
 ---
 
 ## Telegram 
- > [💲 PayBot/Key](https://t.me/voltverifybot)
+ > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
 
- > [👨🏽‍💻 𝚟𝚘𝚕𝚝𝚜²𝚑 𝕏](https://t.me/voltsshx)
+ > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
 
- > [📣 𝚅𝚘𝚕𝚝𝚂𝚂𝙷-𝕏 Club ⚝](https://t.me/voltsshxclub)
+ > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
 
 
 #
