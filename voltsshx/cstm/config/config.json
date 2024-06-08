@@ -1,5 +1,5 @@
 {
-  "listen": ":25525",
+  "listen": ":36712",
   "stream_buffer": 209715200,
   "receive_buffer": 209715200,
   "auth": {
