@@ -100,7 +100,7 @@ __*Use responsibly and adhere to all relevant laws and regulations. The project 
 ## Telegram 
  > [💲 Pay](https://t.me/voltverifybot) - ```Keys & Payment```
 
- > [👨🏽‍💻 LS•Dev 🧑‍💻](https://t.me/lsdevx) ```Admin```
+ > [👨🏽‍💻 ls•dev 🧑‍💻](https://t.me/lsdevpr) ```Admin```
 
  > [📣 LS Tunnel](https://t.me/lstunnel) - ```Channel```
 
